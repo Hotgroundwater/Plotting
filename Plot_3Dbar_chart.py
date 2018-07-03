@@ -63,7 +63,7 @@ plt.tick_params(axis = 'both', which = 'major', labelsize= 30, pad = 20)
 plt.xticks(XX, LABELS, fontsize =24,fontweight = 'bold')##XX,fontweight = 'bold'
 
 
-plt.savefig("C:\\Users\\Nang Kittiya\\Documents\\Python_test\\Out_files\\MDBproduce4"+'.png', transparent = True)
+plt.savefig("C:\\Users\\XXXX\\Documents\\Python_test\\Out_files\\MDBproduce4"+'.png', transparent = True)
 plt.clf()
 plt.close()
 print("Done")
