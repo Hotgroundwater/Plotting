@@ -6,8 +6,8 @@ import seaborn as sns
 
 
 
-directory = "D:\\"##"C:\\Users\\Kbushaway\\Documents\\Python_test\\inputfiles\\"
-outfile = "D:\\"##"C:\\Users\\Kbushaway\\Documents\\Python_test\\Out_files\\"
+directory = "D:\\"##"C:\\Users\\xxxx\\Documents\\Python_test\\inputfiles\\"
+outfile = "D:\\"##"C:\\Users\\xxxx\\Documents\\Python_test\\Out_files\\"
 obsfile = "HistoricalAverageEC_Morgan.csv" ###### change file name
 
 sns.set(style="darkgrid")
